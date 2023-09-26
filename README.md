@@ -1,3 +1,0 @@
-# thoughtgraph.github.io
-
-Test
